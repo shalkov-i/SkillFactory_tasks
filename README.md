@@ -1,2 +1,3 @@
 # SkillFactory_tasks
-Задание игра "Морской бой"
+Задание: Telegram Bot
+Найти в Telegram бота: ExchangeSF_Bot
